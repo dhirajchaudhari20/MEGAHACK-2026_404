@@ -1,0 +1,8 @@
+{
+  "name": "Agri-Intel",
+  "description": "An AI-powered agricultural advisory system developed by students of SJCEM for MegaHack 2026 hackathon. It allows farmers to ask queries in their own language and receive accurate, context-aware answers instantly.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
